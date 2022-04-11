@@ -1,0 +1,13 @@
+.correct.selected {
+  border: 3px solid rgb(6, 240, 15);
+}
+
+.incorrect.selected {
+  border: 3px solid red;
+}
+
+.background {
+  background-color: #98e8b3;
+  min-height: 100vh;
+  padding: 20px;
+}
